@@ -1,0 +1,2 @@
+2_input_e_data_binding
+https://github.com/matheusbattisti/curso_vue_yt/tree/main/2_input_e_data_binding

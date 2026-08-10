@@ -1,0 +1,5 @@
+1_setup_cdn
+https://github.com/matheusbattisti/curso_vue_yt/tree/main/1_setup_cdn
+
+Using Vue from CDN
+https://vuejs.org/guide/quick-start.html

@@ -1,0 +1,8 @@
+3_projeto_cli
+https://github.com/matheusbattisti/curso_vue_yt/tree/main/3_projeto_cli
+
+Baixar o Node.js®
+https://nodejs.org/pt-br/download
+
+Installation
+https://cli.vuejs.org/guide/installation.html
