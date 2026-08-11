@@ -1,0 +1,2 @@
+11_scoped_styles
+https://github.com/matheusbattisti/curso_vue_yt/tree/main/11_scoped_styles

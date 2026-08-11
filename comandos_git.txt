@@ -77,6 +77,7 @@ cd ./projeto1
 *****se necessário
     git remote add origin git@github.com:oscarlmjr/curso-django-projeto1.git
     git remote set-url origin git@github.com:oscarlmjr/curso-django-projeto1.git
+git pull origin main
 git status >> git add . >> git commit -m "Adiciona submódulo"
 git push --force origin main
 cd ..
