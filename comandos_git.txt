@@ -73,20 +73,15 @@ git submodule add ./projeto1
 git submodule status
 git submodule set-url projeto1 git@github.com:oscarlmjr/curso-django-projeto1.git
 git submodule sync --recursive
-*****se necessário >> cd ./projeto1
-git remote add origin git@github.com:oscarlmjr/curso-django-projeto1.git
-git remote set-url origin git@github.com:oscarlmjr/curso-django-projeto1.git
-git add .gitmodules
-git commit -m "Atualiza URL do submódulo"
-
-
-
-
-
-
-
-
-
+cd ./projeto1
+*****se necessário
+    git remote add origin git@github.com:oscarlmjr/curso-django-projeto1.git
+    git remote set-url origin git@github.com:oscarlmjr/curso-django-projeto1.git
+git status >> git add . >> git commit -m "Adiciona submódulo"
+git push --force origin main
+cd ..
+git add .gitmodules >> git commit -m "Adiciona submódulo"
+git push origin main
 
 **************clone
 git clone --recurse-submodules https://github.com
@@ -150,7 +145,6 @@ cd  ..
 git add Section_8_aula403
 git commit -m "Atualiza o submódulo para o commit mais recente"
 git push origin main
-
 
 
 **************paths
