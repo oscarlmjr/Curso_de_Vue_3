@@ -1,0 +1,2 @@
+7_hierarquia_de_componentes
+https://github.com/matheusbattisti/curso_vue_yt/tree/main/7_hierarquia_de_componentes

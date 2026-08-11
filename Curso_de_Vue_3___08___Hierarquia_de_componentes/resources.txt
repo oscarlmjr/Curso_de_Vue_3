@@ -1,0 +1,2 @@
+8_diretivas
+https://github.com/matheusbattisti/curso_vue_yt/tree/main/8_diretivas
