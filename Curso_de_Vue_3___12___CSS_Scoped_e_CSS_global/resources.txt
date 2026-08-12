@@ -1,0 +1,2 @@
+12_list_rendering
+https://github.com/matheusbattisti/curso_vue_yt/tree/main/12_list_rendering
