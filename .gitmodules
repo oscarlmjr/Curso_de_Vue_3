@@ -1,3 +1,6 @@
 [submodule "2_projeto_vue"]
 	path = 2_projeto_vue
 	url = git@github.com:oscarlmjr/curso-vue-3-2_projeto_vue.git
+[submodule "3_make_your_burger"]
+	path = 3_make_your_burger
+	url = git@github.com:oscarlmjr/curso-vue-3-3_make_your_burger.git
