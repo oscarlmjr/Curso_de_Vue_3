@@ -83,18 +83,16 @@ cd ..
 git add .gitmodules >> git commit -m "Adiciona submódulo"
 git push origin main
 
+
 **************clone
 git clone --recurse-submodules https://github.com
-**************criar submodule local
 git submodule add ./projeto1
 git submodule init
 git submodule update --remote
-
 git config --file=.gitmodules submodule../projeto1.url https://github.com
 git submodule sync --recursive
 git add ./projeto1 .gitmodules
 git commit -m "Atualiza URL remota do submódulo"
-
 git submodule add https://github.com
 git add .
 git commit -m "Adiciona submódulo"
@@ -131,12 +129,9 @@ git submodule add  Section_8_aula403
 git submodule status
 git submodule sync --recursive
 git submodule update --init --recursive --remote
-
 git add .gitmodules
 git commit -m "Atualiza a URL do submódulo"
 git push origin main
-
-
 cd submodulo/
 git add .
 git commit -m "Sua mensagem de commit"
