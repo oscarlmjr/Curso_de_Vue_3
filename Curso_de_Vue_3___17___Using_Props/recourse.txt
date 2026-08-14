@@ -1,0 +1,2 @@
+17_emit
+https://github.com/matheusbattisti/curso_vue_yt/tree/main/17_emit

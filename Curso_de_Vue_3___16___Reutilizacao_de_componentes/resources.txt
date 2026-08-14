@@ -1,0 +1,2 @@
+16_props
+https://github.com/matheusbattisti/curso_vue_yt/tree/main/16_props
